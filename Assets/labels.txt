@@ -1,0 +1,2 @@
+0 Happy
+1 Angry
