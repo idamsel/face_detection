@@ -1,5 +1,7 @@
 # Face Detection in Flutter:
 
+#### Flutter dependency used - [Camera](https://pub.dev/packages/camera) and [Tflite](https://pub.dev/packages/tflite).
+
  For creating your model go at [Image Model - Teachable Machine](https://teachablemachine.withgoogle.com/train/image).
 
 - In that choose below (Image Project)
