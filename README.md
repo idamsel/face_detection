@@ -16,6 +16,9 @@
 
 - Then download that model in your PC / Laptop and put that file in your Assets folder in your Flutter project.
 
-## And after that use my code which you may find in this repository. :slightly_smiling_face:
+## And after that use my code which you may find in this repository and after that you'll also get below output. :slightly_smiling_face:
+
+![Output](output.jpg)
+
 
 
